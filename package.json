@@ -32,7 +32,7 @@
   },
   "main": "./index.js",
   "engines": {
-    "node": ">=6.4.0"
+    "node": ">=8.10.0"
   },
   "license": "Apache-2.0",
   "readmeFilename": "README.md",
